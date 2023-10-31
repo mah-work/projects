@@ -89,14 +89,13 @@ body{
 }
 
 .weather_container h1{
-  font-size: 65px;
+  font-size: 50px;
   font-weight: 500;
 }
 
 .weather_container h2{
-  font-size: 35px;
+  font-size: 24px;
   font-weight: 400;
-  margin-top: -10px;
 }
 
 .main_details, .details{
