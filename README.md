@@ -18,3 +18,6 @@ https://jsfiddle.net/matei218/we7Lcaf8/
 
 Weather App | 
 Github Only
+
+Grammar Check |
+https://jsfiddle.net/matei218/tmfgbzkr/14/
